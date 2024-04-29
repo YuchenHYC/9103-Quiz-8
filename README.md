@@ -19,7 +19,7 @@
 1. Effect: the following code creates many dots with different colors. These dots are distributed across three layers with random initail colour and positions, and move based on the mouse's position. If a dot moves beyond the canvas boundaries, it reappears from the opposite side, so we have visually endless dots.
 >
 2. Contribution: the code help us interact with the Figure 3.
->
+> 
 3. The link of code is here: https://editor.p5js.org/KevinWorkman/sketches/N4R8UHHGY
 
 ![Figure 4](assets/figure%204.png)
