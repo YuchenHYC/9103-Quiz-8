@@ -1,12 +1,12 @@
 # **Part 1: Imaging Technique Inspiration**
 
-![Figure 1](assets/Quiz%208%20Figure%201.png)
+![Figure 1](assets/Figure%201.gif)
 
 ![Figure 2](assets/Quiz%208%20Figure%202.png)
 
-1. These two screenshots are derived from https://happycoding.io/tutorials/p5js/creating-classes/parallax-dots
+1. These two images are derived from https://happycoding.io/tutorials/p5js/creating-classes/parallax-dots
 >
-2. These two images illustrate the starry sky. By changing color they show the brightness, and by dragging the canvas through mouse, we can discover endless stars.
+2. These two images illustrate the starry sky. By dragging the canvas through mouse (Figure 1), and by changing color they show the brightness (Figure 2) we can discover endless stars.
 >
 3. After we set up the night mode of Figure 3 from assignment 3, we can add these stars on the sky and the river as the reflection. It would be beautiful.
 
